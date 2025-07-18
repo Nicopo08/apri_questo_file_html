@@ -1,0 +1,16 @@
+html,
+body {
+  height: 100%;
+  padding: 0;
+  margin: 0;
+  background: #120017;
+}
+canvas {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+}
+@font-face {
+   font-family: myFirstFont;
+   src: url(ARCARTER.woff);
+}
